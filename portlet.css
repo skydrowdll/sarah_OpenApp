@@ -1,0 +1,10 @@
+.plugin-gridster.openapp .front {
+  background: #69d2e7 url('images/openapp.png') center 34px;
+  background-size:   135px 130px;
+  background-repeat: no-repeat;
+}
+.plugin-gridster.openapp .back {
+  background: #69d2e7 url('images/openapp.jpg') center 34px;
+  background-size:   130px 75px;
+  background-repeat: no-repeat;
+}

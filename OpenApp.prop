@@ -1,0 +1,9 @@
+{
+	"modules" : { 
+		"OpenApp"  : {
+			"description": "ouvre les application de votre ordinateur",
+			"version": "1.0",
+			"timeout_msec": 10000
+		}
+	}
+}
